@@ -3,6 +3,8 @@ I changed this file, previously I mentioned wrong git repo in pipeline scripts
 
 still the github webhook is the triggered from pipeline
 
+This is checking of Poll SCM
+
 change1 and change2
 
 This tutorial teaches you some of the basic concepts in [Vaadin Framework](https://vaadin.com). It is meant to be
